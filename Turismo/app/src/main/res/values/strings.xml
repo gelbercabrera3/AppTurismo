@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Turismo</string>
+    <string name="app_login">Turismo - Bienvenido</string>
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_menu">Menu</string>
 </resources>
